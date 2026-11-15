@@ -1,0 +1,7 @@
+COMBO_ENABLE = yes
+
+# Save flash on the ATmega32u4.
+MOUSEKEY_ENABLE = no
+UNICODE_ENABLE = no
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
